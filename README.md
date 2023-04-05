@@ -13,7 +13,8 @@
 5. As a result, it is critical to maintaining a database system that contains a customer's data to make tracking and delivery of an item much easier. Furthermore, this data should be protected from cyber-attacks such as SQL injection.
 
 
-**Entity Relationship Diagram **
+**Entity Relationship Diagram**
+
 
 <img width="1480" alt="Screenshot 2023-04-04 at 7 39 20 PM" src="https://user-images.githubusercontent.com/44360471/229945843-c1b843e3-a647-455d-a99b-989207ef6f74.png">
 
